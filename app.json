@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Speedy Hedgehog",
+    "slug": "speedy-hedgehog",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.speedyhedgehog.game"
+    },
+    "plugins": []
+  }
+}
